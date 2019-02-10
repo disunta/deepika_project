@@ -1,0 +1,14 @@
+.idea
+.recommenders
+.metadata
+Servers
+*/target/*
+*/target/**
+*/bin/*
+*/bin/**
+*/.settings/*
+*/.settings/**
+*.iml
+*/build/*
+*/build/**
+*.bak
